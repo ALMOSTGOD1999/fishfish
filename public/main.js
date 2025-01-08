@@ -15,7 +15,7 @@ messageForm.addEventListener('submit', (e) => {
 });
 
 socket.on('clients-total', (data) => {
-   clientsTotal.innerText=`Total tattletales :${data}`
+   clientsTotal.innerText=`Total Tattletales :${data}`
     
 })
 

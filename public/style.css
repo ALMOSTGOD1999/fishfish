@@ -15,7 +15,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #ebebeb;
+    background-color: #fffdd0;
     height: 100vh; /* Ensures the body takes the full viewport height */
     overflow: hidden; /* Prevents scrolling when not needed */
 }
@@ -28,7 +28,7 @@ body {
 
 /* Main Container */
 .main {
-    border: 8px solid #dddddd;
+    border: 8px solid #bdbaba;
     border-radius: 24px;
     overflow: hidden;
     width: 100%;
